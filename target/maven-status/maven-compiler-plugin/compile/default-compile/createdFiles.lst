@@ -1,0 +1,3 @@
+com\test\entity\Person.class
+com\test\controller\PersonController.class
+com\test\config\SpringWebConfig.class
